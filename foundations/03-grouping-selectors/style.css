@@ -1,0 +1,11 @@
+.ola{
+    background-color: black;
+    color: white;
+}
+.tola{
+    background-color: yellow;
+}
+.ola, .tola{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
