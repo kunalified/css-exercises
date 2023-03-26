@@ -1,0 +1,15 @@
+.para{
+    background-color:rgb(238, 115, 115);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.font-size{
+    font-size: 24px;
+}
+#ola{
+    color:rgb(14, 116, 250);
+    font-size: 36px;
+}
+#tola{
+    background-color: rgb(69, 241, 69);
+    font-weight: bold;
+}
